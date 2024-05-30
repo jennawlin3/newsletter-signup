@@ -198,7 +198,7 @@ display: none !important;
 }
 
 .hide-bg {
-    background-color: var(--dark-slate-grey) !important;
+    background-color: var(--charcoal-grey) !important;
 }
 
 @media screen and (min-width:768px) {
